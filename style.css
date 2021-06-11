@@ -1,0 +1,26 @@
+@font-face {
+    font-family:Poppins-LightItalic;
+    src: url(Poppins-LightItalic.ttf);
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url(2.jpg);
+    -webkit-background-size: cover;
+    background-size: cover;
+    background-position: center center;
+    height: 100 vh;
+}
+.banner-area h2{
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    font-family:Poppins-LightItalic;
+    color: white;
+    font-size: 3em;
+}
+.banner-area h2 span{
+    color: #37F2B9;
+    font-family:Poppins-LightItalic;
+}
